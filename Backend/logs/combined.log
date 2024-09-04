@@ -1,0 +1,1210 @@
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T18:46:21.624Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T18:52:42.454Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T18:53:37.783Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T18:56:40.646Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T18:59:44.787Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T19:08:49.088Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T19:12:23.153Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-02T19:12:48.666Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T19:26:41.435Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-02T19:26:54.558Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T22:45:41.816Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T22:45:57.915Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-02T22:46:04.931Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T22:46:37.738Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-02T22:46:51.013Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T22:49:30.169Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T22:51:37.113Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T22:51:46.116Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-02T22:51:58.469Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T22:54:30.549Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T22:54:37.596Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-02T22:54:44.414Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-02T22:56:18.945Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-02T23:03:26.014Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T12:40:52.765Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-03T16:39:16.586Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T20:17:06.784Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T20:17:09.333Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T20:19:13.013Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T20:19:30.847Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-03T21:18:11.799Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T21:18:24.184Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T21:18:28.718Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-03T23:16:39.966Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-03T23:16:49.596Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:28:15.269Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:35:20.557Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:35:21.007Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:36:47.642Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:37:06.008Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:37:06.287Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:38:40.262Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:38:50.510Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:38:53.407Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:45:46.871Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:45:48.156Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:46:01.054Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:46:01.397Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:46:17.746Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:46:21.008Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:47:29.073Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:47:29.606Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:47:38.186Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:47:38.553Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:47:42.438Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:47:42.582Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:47:49.903Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:47:50.126Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:47:54.011Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:47:54.201Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:48:01.457Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:48:01.703Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:49:10.323Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:49:10.624Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:52:11.340Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:52:11.804Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:52:29.613Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:52:29.925Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-03T23:52:53.101Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-03T23:52:53.278Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:01:55.874Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:01:56.478Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:02:01.371Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:02:01.700Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:02:09.038Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:02:09.252Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:02:17.556Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:02:17.787Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:09:55.407Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:09:56.019Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:11:28.403Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:11:28.731Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:11:48.252Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:11:48.523Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:18:24.293Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:18:24.941Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:18:38.932Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:18:39.151Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:18:44.415Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:18:44.643Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:21:32.918Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:21:33.490Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:25:28.430Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:25:28.944Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:25:39.167Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:25:39.544Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:25:43.784Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:25:44.106Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:25:59.344Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:25:59.775Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:26:37.524Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:26:37.926Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:26:53.478Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:26:53.893Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T00:26:55.906Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T00:26:56.230Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:01:50.470Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:01:51.069Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:02:35.628Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:02:36.185Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:02:56.585Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:02:56.838Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:03:07.718Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:03:08.004Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:07:22.698Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:07:23.291Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:07:31.347Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:07:31.672Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:16:21.690Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:16:22.241Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:16:50.597Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:16:50.973Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:16:58.306Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:16:58.485Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:18:00.922Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:18:01.350Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:18:19.074Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:18:19.376Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:18:20.398Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:18:20.562Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:18:32.297Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:18:32.578Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:19:26.996Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:19:27.304Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:22:17.379Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:22:17.707Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:22:20.914Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:22:21.138Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:22:43.289Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:22:43.529Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:25:11.823Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:25:12.161Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:25:34.841Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:25:35.284Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:26:46.104Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:26:46.494Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:30:59.006Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:30:59.566Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:32:30.043Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:32:30.396Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:32:41.384Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:32:41.609Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:53:56.850Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:53:57.384Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T08:56:30.186Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T08:56:30.568Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:08:23.364Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:08:23.871Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:17:32.005Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:17:32.501Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T09:18:20.493Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:18:35.329Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:18:52.815Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:18:53.193Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T09:19:27.132Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:19:42.797Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:19:46.665Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:19:54.139Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:19:56.647Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T09:20:33.444Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:20:55.656Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:21:35.702Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:21:36.197Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:21:55.617Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:21:56.206Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:25:25.293Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:25:25.798Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:25:54.002Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:25:54.528Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T09:26:43.718Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:29:08.305Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:34:31.673Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:34:32.219Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:34:43.983Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:34:44.250Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:38:24.186Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:38:24.615Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:40:36.550Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:40:37.000Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:43:05.076Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:43:05.605Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:46:13.817Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:46:14.370Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:48:30.301Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:48:31.026Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:50:15.974Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T09:50:16.473Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T09:57:48.183Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:06:12.087Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T11:06:23.545Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:06:23.941Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T11:07:27.852Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:07:28.264Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T11:09:01.372Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:09:01.810Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T11:10:23.691Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:10:24.262Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T11:11:16.781Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:11:17.379Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T11:11:20.542Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:11:20.768Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T11:14:53.951Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T11:23:08.870Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T12:20:33.522Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:21:29.974Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:21:36.826Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:21:46.838Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:21:48.426Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:23:03.191Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:23:07.280Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:23:11.219Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:35:49.291Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:35:49.813Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:38:33.166Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:38:33.753Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:40:52.156Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:40:52.780Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:43:27.029Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:43:27.553Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:44:12.888Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:44:16.308Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T12:44:28.392Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:44:33.165Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:47:13.728Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:47:14.321Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:47:44.545Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:47:44.994Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:51:02.513Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:51:03.275Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T12:51:15.128Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:51:17.701Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:53:33.883Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:53:34.469Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:55:25.496Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:55:25.989Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T12:56:36.260Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T12:56:36.850Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:02:06.498Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:02:07.141Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:06:53.074Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:06:53.684Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T13:07:14.571Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:07:17.014Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:09:02.938Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:09:03.561Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:09:45.789Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:09:46.376Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:12:31.172Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:12:31.707Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:14:42.114Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:14:42.703Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:14:57.961Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:14:58.553Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:15:14.686Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:15:15.147Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:15:23.998Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:15:24.441Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:15:57.185Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:15:57.511Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:16:17.115Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:16:17.502Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:16:21.539Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:16:21.934Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:16:52.352Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:16:52.729Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:17:29.772Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:17:30.056Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:18:47.634Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:18:48.113Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:18:52.156Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:18:52.382Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:19:43.121Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:19:43.364Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:21:11.603Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:21:11.940Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:22:01.086Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:22:01.521Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:24:05.164Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:24:05.628Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:24:16.770Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:24:16.999Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:24:35.052Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:24:35.423Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:27:33.708Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:27:34.312Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:28:25.674Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:28:28.650Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:28:43.336Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:28:43.671Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:29:19.936Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:29:20.310Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:32:11.455Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:32:12.066Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:32:20.742Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:32:21.195Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:32:33.916Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:32:34.491Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:32:42.394Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:32:42.731Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:35:22.270Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:35:22.754Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:35:48.078Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:35:48.595Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:37:50.001Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:37:50.455Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:38:59.880Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:39:00.446Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:40:15.343Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:40:15.815Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:41:53.521Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:41:53.840Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:42:06.081Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:42:06.461Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:42:34.155Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:42:34.471Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:43:25.823Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:43:26.442Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:44:21.727Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:44:22.204Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:44:51.663Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:44:52.006Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:45:28.903Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:45:29.504Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:45:52.408Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:45:52.718Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:47:04.576Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:47:04.988Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:48:05.425Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:48:05.874Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:48:28.402Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:48:28.792Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:48:34.653Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:48:34.920Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:49:39.217Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:49:39.986Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:49:44.566Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:49:44.838Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:50:26.637Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:50:27.034Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:50:40.048Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:50:40.434Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:51:14.133Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:51:14.517Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:51:31.160Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:51:31.567Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:51:55.269Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:51:55.696Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:52:22.481Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:52:22.773Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:53:12.387Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:53:12.703Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:54:51.141Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:54:51.606Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:55:13.552Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:55:13.786Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:55:29.972Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:55:30.290Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:55:36.201Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:55:36.507Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:55:41.087Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:55:41.335Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:56:36.518Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:56:36.829Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:57:00.229Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:57:00.528Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:58:22.816Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:58:23.323Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:58:38.796Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:58:39.132Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:58:46.641Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:58:46.804Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:58:55.066Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:58:55.368Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:59:16.442Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:59:16.786Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:59:25.323Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:59:25.645Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:59:31.246Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:59:31.498Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:59:41.988Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:59:42.296Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T13:59:48.151Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T13:59:48.464Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T14:00:04.096Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T14:00:04.426Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T14:00:10.021Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T14:00:10.270Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T14:00:15.292Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T14:00:15.538Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T14:00:26.134Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T14:00:26.379Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T14:00:32.030Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T14:00:32.322Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T14:00:40.464Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T14:00:40.788Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T14:00:53.262Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T14:00:53.580Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:00:45.453Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:00:45.948Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:01:00.525Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:01:00.805Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:28:17.691Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:28:18.225Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:28:47.164Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:28:47.584Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:31:00.132Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:31:00.732Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:31:11.979Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:31:12.640Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:31:13.846Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T15:39:45.306Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:39:50.153Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:40:16.785Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:40:17.067Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:42:05.062Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:42:05.663Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:42:22.771Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:42:23.056Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:46:55.308Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:46:55.916Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:47:26.963Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:47:27.487Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:49:57.946Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:49:58.653Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:50:30.954Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:50:31.506Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:50:46.020Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:50:46.455Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:50:51.669Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:50:51.939Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:50:53.497Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:50:53.727Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:52:19.388Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:52:19.930Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:52:53.857Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:52:54.231Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:53:29.864Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:53:30.536Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:53:36.723Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:53:37.078Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:53:42.649Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:53:42.997Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:54:08.425Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:54:08.972Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:54:27.109Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:54:27.412Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:55:44.828Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:55:45.422Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:59:34.014Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:59:34.588Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T15:59:58.880Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T15:59:59.198Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:00:13.335Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:00:13.721Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:03:36.926Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:03:37.528Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:05:20.806Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:05:21.431Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:05:41.967Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:05:42.478Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:06:12.205Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:06:12.886Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:09:00.961Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:09:01.557Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:09:25.105Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:09:25.614Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:09:48.099Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:09:48.739Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:09:59.220Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:09:59.614Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:10:33.559Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:10:34.105Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:10:53.538Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:10:53.898Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:11:10.794Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:11:11.448Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:13:27.834Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:13:28.377Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:13:37.133Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:13:37.558Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:14:00.095Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:14:00.516Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:14:51.705Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:14:52.123Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:14:53.883Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:14:54.253Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:15:19.197Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:15:19.569Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:16:40.771Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:16:41.336Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:16:59.913Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:17:00.487Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:20:15.764Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:20:16.218Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:20:48.159Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:20:48.972Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:21:22.163Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:21:22.692Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:21:43.565Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:21:44.174Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:22:36.918Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:22:37.439Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:23:02.817Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:23:03.228Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:23:18.822Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:23:19.490Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:23:29.520Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:23:29.821Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:24:15.495Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:24:16.092Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:24:39.628Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:24:40.129Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:24:47.524Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:24:47.905Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:25:05.211Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:25:05.765Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:26:00.430Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:26:00.767Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:26:17.152Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:26:17.599Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:26:33.635Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:26:34.054Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:26:46.033Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:26:46.356Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:27:18.112Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:27:18.799Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:27:29.625Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:27:30.023Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:27:35.958Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:27:36.223Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:27:55.131Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:27:55.636Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:28:57.242Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:28:57.757Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:29:09.080Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:29:09.454Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:29:28.696Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:29:29.304Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:30:45.254Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:30:45.848Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:30:57.328Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:30:57.856Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:31:11.023Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:31:11.414Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:31:29.381Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:31:30.086Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:31:42.311Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:31:42.739Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:31:47.585Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:31:47.876Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:32:02.153Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:32:02.399Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:32:28.051Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:32:28.444Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:32:57.210Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:32:57.653Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:33:22.306Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:33:22.664Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:33:46.236Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:33:46.886Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:34:09.254Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:34:09.768Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:34:30.928Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:34:31.605Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:34:57.472Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:34:57.759Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:35:14.430Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:35:14.839Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:35:24.005Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:35:24.422Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:35:38.545Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:35:38.804Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:35:47.864Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:35:48.238Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:35:54.355Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:35:54.839Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:36:19.256Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:36:19.530Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:36:32.964Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:36:33.189Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:41:25.515Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:41:26.241Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:43:11.636Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:43:12.313Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:43:33.422Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:43:33.758Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:46:04.056Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:46:04.708Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:46:35.187Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:46:35.658Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:46:52.293Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:46:52.598Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:47:27.124Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:47:27.498Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:49:32.417Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:49:32.721Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:50:11.934Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:50:12.271Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:50:22.645Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:50:23.014Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:51:24.601Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:51:25.262Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:52:10.471Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:52:10.920Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:52:21.889Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:52:22.479Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:52:52.488Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:52:53.057Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:53:40.245Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:53:40.973Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:54:15.157Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:54:15.769Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:54:55.957Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:54:56.486Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:57:41.844Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:57:42.275Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:58:35.440Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:58:36.036Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:59:09.472Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:59:09.950Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T16:59:32.884Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T16:59:33.303Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:00:03.576Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:00:04.210Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:01:30.711Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:01:31.259Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:02:11.286Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:02:11.790Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:02:23.341Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:02:23.919Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:04:30.565Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:04:31.166Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:05:11.241Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:05:11.568Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:06:29.135Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:06:29.743Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:07:15.689Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:07:16.103Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:07:46.460Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:07:46.802Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:13:05.016Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:13:05.564Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:15:13.424Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:15:13.950Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:15:31.233Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:15:31.600Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:16:12.313Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:16:12.625Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:16:27.345Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:16:27.846Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:16:31.334Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:16:31.750Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:18:41.910Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:18:42.338Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:18:55.121Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:18:55.420Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:19:06.438Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:19:06.705Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:19:38.936Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:19:39.535Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:20:01.952Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:20:02.268Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:20:12.848Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:20:13.350Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:20:58.612Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:20:59.183Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:22:34.691Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:22:35.228Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:22:38.842Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:22:39.457Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:23:03.235Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:23:03.853Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:23:16.375Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:23:16.912Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:23:24.704Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:23:25.111Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:23:55.816Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:23:56.164Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:24:35.826Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:24:36.394Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:24:47.292Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:24:47.946Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:24:56.774Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:24:57.309Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:27:10.860Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:27:11.263Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:27:22.390Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:27:22.838Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:27:42.406Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:27:42.956Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:27:58.001Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:27:58.338Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:28:03.711Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:28:03.933Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:28:17.868Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:28:18.096Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:28:40.250Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:28:40.462Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:28:57.425Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:28:57.798Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:29:18.335Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:29:18.743Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:30:17.415Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:30:17.809Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:30:26.373Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:30:26.768Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:31:35.197Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:31:35.498Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:32:20.318Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:32:20.799Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:32:38.432Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:32:39.049Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:32:48.278Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:32:48.641Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:32:54.623Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:32:54.922Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:36:24.841Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:36:25.485Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:37:05.814Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:37:06.452Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:37:27.737Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:37:28.370Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:39:31.573Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:39:32.278Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:39:42.427Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:39:42.720Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:40:13.370Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:40:13.930Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:41:19.617Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:41:20.324Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:41:55.310Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:41:55.935Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:42:23.645Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:42:23.996Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:45:39.022Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:45:39.378Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:45:50.000Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:45:50.499Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:46:15.526Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:46:16.084Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:47:28.897Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:47:29.361Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:47:30.843Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:47:31.196Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:47:45.050Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:47:45.570Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:49:32.929Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:49:33.519Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:49:54.901Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:49:55.251Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:51:25.231Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:51:25.779Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:53:28.540Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:53:29.117Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:58:25.299Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:58:25.806Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T17:58:33.317Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T17:58:33.685Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:02:03.836Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:02:04.352Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:02:25.294Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:02:25.760Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:02:49.105Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:02:49.658Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:03:01.293Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:03:01.651Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:03:09.709Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:03:10.075Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:04:39.314Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:04:39.895Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:04:41.395Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:04:41.733Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:05:02.353Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:05:02.683Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:05:44.694Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:05:45.279Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:05:54.805Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:05:55.085Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:06:00.762Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:06:00.927Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:06:32.111Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:06:32.544Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T18:07:02.835Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T18:07:03.103Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:16:27.332Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:16:27.945Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:17:55.292Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:17:55.986Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:18:31.861Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:18:32.197Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:18:34.697Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:18:34.969Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:21:16.542Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:21:17.119Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:21:18.160Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:21:18.535Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:21:30.730Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:21:31.005Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:21:35.339Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:21:35.500Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:30:03.065Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:30:03.699Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:30:17.521Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:30:17.886Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:33:56.064Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:33:56.652Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:34:05.687Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:34:06.036Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:38:04.866Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:38:05.581Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:38:18.746Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:38:19.154Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:39:32.099Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:39:32.545Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:40:07.319Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:40:07.714Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:42:31.926Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:42:32.405Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:42:58.687Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:42:58.990Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:45:25.787Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:45:26.405Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:47:02.457Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:47:03.076Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:47:26.124Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:47:26.495Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:47:28.847Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:47:29.194Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:47:36.791Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:47:37.108Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:47:57.105Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:47:57.544Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:48:12.292Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:48:12.718Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:48:35.613Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:48:36.137Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:48:50.975Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:48:51.338Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:49:16.672Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:49:17.147Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:49:37.352Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:49:37.696Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:49:57.490Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:49:57.795Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:49:59.834Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:50:00.155Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:50:09.221Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:50:09.658Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:50:21.825Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:50:22.218Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:50:28.436Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:50:28.814Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:50:58.867Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:50:59.233Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:51:26.005Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:51:26.413Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:51:35.019Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:51:35.285Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:51:45.528Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:51:45.933Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:51:59.136Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:51:59.533Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:52:05.671Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:52:06.019Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:52:13.081Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:52:13.465Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:52:25.085Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:52:25.504Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:52:40.820Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:52:41.218Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:52:50.712Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:52:50.981Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:54:38.782Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:54:39.117Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:55:17.030Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:55:17.619Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:55:22.047Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:55:22.446Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:58:51.068Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:58:51.617Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T19:58:58.074Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T19:58:58.437Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:02:10.438Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:02:11.040Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:02:41.021Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:02:41.339Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:02:48.198Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:02:48.470Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:05:44.719Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:05:45.259Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:05:52.037Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:05:52.355Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:06:08.666Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:06:08.983Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T20:06:50.957Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:07:02.133Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:07:14.656Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:08:03.482Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:08:03.874Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:08:06.832Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:08:07.229Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:08:26.332Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:08:26.585Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:09:30.650Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:09:30.939Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:10:25.830Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:10:26.192Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:10:36.228Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:10:36.509Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:10:43.221Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:10:43.499Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:11:01.343Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:11:01.736Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:11:08.724Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:11:08.972Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:11:44.766Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:11:45.054Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:13:55.173Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:13:55.759Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:14:08.934Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:14:09.289Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:15:35.359Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:15:35.958Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:15:40.266Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:15:40.592Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:16:15.439Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:16:15.922Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:16:49.834Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:16:50.257Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:17:15.452Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:17:15.804Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:17:33.732Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:17:34.305Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:17:49.348Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:17:49.734Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:18:02.739Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:18:03.120Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:18:15.304Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:18:15.576Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:18:22.150Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:18:22.466Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:18:58.865Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:18:59.165Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:19:37.324Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:19:37.922Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:21:51.549Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:21:52.146Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:22:18.494Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:22:18.939Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:22:30.700Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:22:31.121Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:23:08.118Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:23:08.662Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:23:28.702Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:23:29.021Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:23:38.396Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:23:38.716Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:24:04.679Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:24:04.976Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:24:57.916Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:24:58.259Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:25:29.134Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:25:29.540Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:25:40.047Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:25:40.296Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:26:10.898Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:26:11.508Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:26:21.714Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:26:22.045Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:26:25.021Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:26:25.259Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:27:25.687Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:27:26.111Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:30:25.555Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:30:25.957Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:31:55.689Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:31:56.212Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:32:00.396Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:32:00.700Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:32:39.562Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:32:40.055Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:32:51.446Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:32:51.771Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:35:44.431Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:35:44.994Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:35:50.336Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:35:50.727Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:36:27.714Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:36:28.300Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:37:32.065Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:37:32.638Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:37:36.885Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:37:37.166Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:38:15.364Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:38:15.896Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:38:51.954Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:38:52.659Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:40:08.805Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:40:09.376Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:40:32.514Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:40:32.840Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:47:31.474Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:47:32.087Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:48:00.272Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:48:00.642Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:49:51.276Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:49:51.630Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:50:56.711Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:50:57.031Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:51:10.675Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:51:11.037Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:53:51.733Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:53:52.164Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:53:56.007Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:53:56.318Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:55:02.156Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:55:02.451Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T20:59:47.668Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T20:59:48.376Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:00:20.605Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:00:20.982Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:03:44.045Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:03:44.519Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:04:26.309Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:04:26.747Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:06:11.225Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:06:11.521Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:07:18.720Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:07:19.158Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:09:50.946Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:09:51.527Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:10:08.075Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:10:08.410Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:10:25.400Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:10:25.921Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:10:31.246Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:10:31.561Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:10:32.606Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:10:32.849Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:10:33.020Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:10:33.176Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:10:34.823Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:10:34.969Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:10:36.557Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:10:36.709Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:14:03.785Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:14:04.238Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:14:42.323Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:14:42.948Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:15:17.434Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:15:17.924Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:16:37.900Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:16:38.293Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:16:56.342Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:16:56.744Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:17:23.334Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:17:23.914Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:19:32.474Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:19:32.963Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:20:39.992Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:20:40.552Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:21:12.691Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:21:26.141Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:22:04.005Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:22:04.681Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:23:51.072Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:23:51.632Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:25:11.058Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:25:11.535Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:27:16.927Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:27:17.418Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:27:37.736Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:27:38.370Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:27:39.795Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:27:40.339Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:28:46.134Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:28:46.697Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:29:39.030Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:29:39.623Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:30:58.835Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:31:07.164Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:31:25.241Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:31:25.689Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:34:03.261Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:34:03.796Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:34:32.870Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:34:33.379Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:34:54.207Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:34:54.909Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:35:57.502Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:35:58.080Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:36:20.187Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:36:20.772Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:38:36.373Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:38:36.863Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:38:41.086Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:38:41.491Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:39:30.531Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:39:31.150Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:39:35.429Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:39:35.879Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:40:35.745Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:40:36.231Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:41:02.087Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:41:02.708Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:41:08.193Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:41:08.575Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:47:35.771Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:47:36.377Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:47:45.762Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:47:46.216Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:47:57.917Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:47:58.443Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:48:10.290Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:48:10.926Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:49:45.022Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:49:45.540Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:50:18.232Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:50:18.831Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:50:23.175Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:50:23.644Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:51:26.739Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:51:27.249Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:51:45.639Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:51:46.059Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:51:56.357Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:51:56.863Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:55:56.401Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:55:57.160Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:56:41.382Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:56:41.841Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:56:46.255Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:56:46.637Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:57:02.245Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:57:02.863Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:57:06.283Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:57:06.549Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:57:43.385Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:57:43.714Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:57:46.379Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:57:46.668Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:58:21.899Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:58:22.470Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:58:26.668Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:58:27.122Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:58:36.736Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:58:37.201Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:59:07.951Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:59:08.695Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:59:50.231Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:59:50.734Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T21:59:55.903Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T21:59:56.305Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:02:24.480Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:02:24.841Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:02:35.402Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:02:35.896Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:04:25.709Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:04:26.351Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:06:41.515Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:06:42.048Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:06:56.183Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:06:56.520Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:07:50.148Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:07:50.731Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:08:02.569Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:08:03.185Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:08:14.244Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:08:14.899Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:08:35.954Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:08:36.536Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:10:12.331Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:10:12.812Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T22:11:54.981Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:11:59.906Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:12:12.157Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:12:12.478Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:12:25.386Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:12:25.875Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:14:32.090Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:14:32.669Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:14:37.339Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:14:37.743Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:14:54.398Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:14:54.912Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:15:15.719Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:15:16.181Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:19:39.143Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:19:39.714Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:22:24.951Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:22:25.473Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:22:47.324Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:22:47.999Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:24:08.502Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:24:09.016Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:24:12.348Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:24:12.810Z"}
+{"level":"info","message":"Client disconnected from WebSocket","timestamp":"2024-09-04T22:24:34.833Z"}
+{"level":"info","message":"New client connected to WebSocket","timestamp":"2024-09-04T22:24:35.447Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2024-09-04T22:47:11.511Z"}
