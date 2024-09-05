@@ -1,0 +1,47 @@
+/* Altitude Card Styling */
+.altitude-card {
+    text-align: center;
+    backdrop-filter: blur(16px) saturate(100%);
+    -webkit-backdrop-filter: blur(16px) saturate(100%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 5px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); /* Soft shadow for depth */
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  /* 3D Effect on Hover */
+  .altitude-card:hover {
+    transform: perspective(800px) translateZ(15px) scale(1.03); /* 3D pop effect */
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.6); /* Deeper shadow on hover */
+  }
+  
+  /* Altitude Title Styling */
+  
+  
+  /* Chart Container */
+  .chart-container {
+    position: relative;
+    
+    margin: 10px;
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .altitude-card {
+      padding: 15px;
+    }
+  
+    .altitude-card-title {
+      font-size: 1.5rem;
+    }
+  
+    .chart-container {
+      height: 250px;
+    }
+  }
+  

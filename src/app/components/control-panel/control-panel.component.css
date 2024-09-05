@@ -1,0 +1,126 @@
+/* Control Panel Container - Glassmorphism Effect */
+.control-panel {
+    text-align: center;
+    backdrop-filter: blur(16px) saturate(100%);
+    -webkit-backdrop-filter: blur(16px) saturate(100%);
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); /* Soft shadow for depth */
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Control Panel - Glassmorphism Effect */
+
+
+/* 3D Pop Effect on Hover */
+.control-panel:hover {
+    transform: perspective(800px) translateZ(15px) scale(1.03);
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.6); /* Deeper shadow on hover */
+}
+
+/* Control Panel Title Styling */
+.control-panel-title {
+    font-size: 1.6rem;
+
+    color: #ffffff;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Subtle shadow for text */
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    position: relative;
+    z-index: 1;
+}
+
+/* Custom Button Group */
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    position: relative;
+    z-index: 1;
+}
+
+/* Custom Buttons */
+.custom-button {
+    flex: 1;
+    padding: 12px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    border-radius: 12px;
+    backdrop-filter: blur(25px) saturate(0%);
+    -webkit-backdrop-filter: blur(25px) saturate(0%);
+    background-color: rgba(17, 25, 40, 0.46);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); /* Light shadow */
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Custom Buttons Hover Effects */
+.custom-button:hover {
+    box-shadow: none; /* Remove shadow on hover for a flat look */
+    transform: scale(1.05); /* Slightly larger on hover */
+}
+
+/* Start Button with Green Glow */
+.start {
+    border: 1px solid rgba(4, 59, 38, 0.5);
+}
+
+.start:hover {
+    box-shadow: 0 0 5px rgba(45, 115, 45, 0.8); /* Green glow */
+    
+}
+
+/* Stop Button with Red Glow */
+.stop {
+    border: 1px solid rgba(77, 15, 23, 0.5);
+}
+
+.stop:hover {
+    box-shadow: 0 0 5px rgba(255, 0, 0, 0.8); /* Red glow */
+    
+}
+
+/* Reset Button with Amber Glow */
+.reset {
+    border: 1px solid rgba(255, 179, 0, 0.5);
+}
+
+.reset:hover {
+    box-shadow: 0 0 5px rgba(255, 179, 0, 0.8); /* Amber glow */
+    
+}
+
+/* Footer Button Container */
+.control-panel-footer {
+    margin-top: 20px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .button-group {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .control-panel {
+        padding: 15px;
+    }
+
+    .control-panel-title {
+        font-size: 1.5rem;
+    }
+}
