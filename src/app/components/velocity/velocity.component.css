@@ -1,0 +1,183 @@
+/* Velocity Card Styling */
+.velocity-card {
+    text-align: center;
+    backdrop-filter: blur(16px) saturate(100%);
+    -webkit-backdrop-filter: blur(16px) saturate(100%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 5px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); /* Soft shadow for depth */
+    position: relative;
+    overflow: hidden;
+    color: #73b5de;
+    font-weight: 200;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 13rem;
+}
+
+/* 3D Effect on Hover (same as Altitude Card) */
+.velocity-card:hover {
+    transform: perspective(800px) translateZ(15px) scale(1.03); /* 3D pop effect */
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.6); /* Deeper shadow on hover */
+}
+
+/* Speedometer styling inside the card */
+.speedometer {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    backdrop-filter: blur(16px) saturate(100%);
+    -webkit-backdrop-filter: blur(16px) saturate(100%);
+    background-color: rgba(17, 25, 40, 0.75);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    perspective: 800px;
+    transform-style: preserve-3d;
+}
+
+/* Same 3D depth effect for rings */
+.outer-ring, .middle-ring, .inner-ring {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.outer-ring {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0.2));
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.8), 0 15px 30px rgba(0, 0, 0, 0.7);
+    transform: translateZ(-40px);
+    animation: neon-blink 1s ease infinite alternate;
+}
+
+@keyframes neon-blink {
+    0% {
+        box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.8), 0 0 5px rgba(0, 217, 255, 0.7);
+    }
+    100% {
+        box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.8), 0 0 15px rgb(30, 41, 43);
+    }
+}
+
+.middle-ring {
+    width: 85%;
+    height: 85%;
+    background: radial-gradient(circle, #1e2230 50%, #131722);
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.6), 0 10px 20px rgba(0, 0, 0, 0.5);
+    transform: translateZ(-20px);
+}
+
+.inner-ring {
+    width: 70%;
+    height: 70%;
+    background: radial-gradient(circle, #131722 50%, #0e1219);
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5), 0 5px 10px rgba(0, 0, 0, 0.4);
+    transform: translateZ(0px);
+}
+
+.velocity-card.data-stopped {
+    background-color: rgba(255, 0, 0, 0.2); /* Change background to red when data stops */
+}
+/* Speed Display */
+.speed-display {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) translateZ(10px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 5;
+}
+
+.speed-value {
+    font-family: 'Orbitron', sans-serif;
+    color: #00f1ff;
+    font-size: 1rem;
+    font-weight: 700;
+    text-shadow: 0 0 8px rgba(0, 241, 255, 0.9);
+    letter-spacing: 2px;
+}
+
+.kmh-label {
+    font-family: 'Orbitron', sans-serif;
+    color: #8eb6ed;
+    font-size: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-shadow: 0 0 5px rgba(142, 182, 237, 0.7);
+}
+
+/* Animated Bars Beside the Speedometer */
+.bar-animation-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -50px;
+    display: flex;
+    justify-content: space-between;
+    width: 30px;
+}
+
+.bar {
+    width: 5px;
+    height: 100%;
+    background: linear-gradient(to top, green, yellow, red);
+    margin: 0 2px;
+    border-radius: 3px;
+    animation: grow-bar 1.5s ease-in-out infinite alternate;
+}
+
+/* Bar Animation */
+@keyframes grow-bar {
+    0% {
+        height: 20%;
+        background: linear-gradient(to top, green, yellow);
+    }
+    100% {
+        height: 100%;
+        background: linear-gradient(to top, green, yellow, red);
+    }
+}
+
+/* Responsive Speedometer */
+@media (max-width: 768px) {
+
+    .velocity-card{
+        height:12rem;
+    }
+    .speedometer {
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .speed-value {
+        font-size: 1.2rem;
+    }
+
+    .kmh-label {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .speedometer {
+        width: 8rem;
+        height: 8rem;
+    }
+
+    .speed-value {
+        font-size: 1rem;
+    }
+
+    .kmh-label {
+        font-size: 8px;
+    }
+}

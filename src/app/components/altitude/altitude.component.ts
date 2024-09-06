@@ -2,7 +2,6 @@ import { Component, OnInit, ViewChild } from '@angular/core';
 import { Chart, registerables, ChartOptions, ChartType } from 'chart.js';
 import { BaseChartDirective } from 'ng2-charts';
 import { WebSocketService } from '../../services/websocket.service'; // Assume it's already connected
-
 @Component({
   selector: 'app-altitude',
   standalone: true,
@@ -29,7 +28,7 @@ export class AltitudeComponent implements OnInit {
     responsive: true,
     animation: {
       duration: 1000,
-      easing: 'easeInOutQuart'
+      easing: 'linear'
     },
     scales: {
       x: {
@@ -46,7 +45,7 @@ export class AltitudeComponent implements OnInit {
     plugins: {
       title: {
         display: true,
-        text: 'Altitude (km)',
+        
         color: '#8eb6ed',
         font: {
           size: 16
@@ -113,8 +112,7 @@ export class AltitudeComponent implements OnInit {
       }
     });
   }
-
-  // Stop animation when no new data is received
+ 
   pauseAnimation() {
     this.chart.update('none'); // Stop the chart animation using the 'none' mode
   }

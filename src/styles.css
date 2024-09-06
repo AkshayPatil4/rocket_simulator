@@ -18,10 +18,18 @@
 }
 
 html, body {
+  background-color: #061123;
+  background-image: 
+      radial-gradient(at 47% 33%, hsl(162.30, 69%, 22%) 0, transparent 59%), 
+      radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);
   height: 100%;
   width: 100%;
   scroll-behavior: smooth; /* Smooth scrolling behavior */
   font-family: var(--font-family);
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
 }
 
 /* Body Styling */
@@ -61,59 +69,3 @@ a:hover {
   color: var(--highlight-color);
 }
 
-/* Global Container (helps keep the design centered and responsive) */
-.container {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-/* Responsive Utilities */
-.hide-mobile {
-  display: none;
-}
-
-@media (min-width: 768px) {
-  .hide-mobile {
-    display: block;
-  }
-}
-
-@media (max-width: 768px) {
-  /* Mobile-specific adjustments */
-  body {
-    padding: 10px;
-  }
-  
-  h1 {
-    font-size: 1.8rem;
-  }
-  
-  h2 {
-    font-size: 1.5rem;
-  }
-  
-  p {
-    font-size: 0.9rem;
-  }
-  
-  .container {
-    padding: 10px;
-  }
-}
-
-@media (max-width: 480px) {
-  /* Extra small device adjustments */
-  h1 {
-    font-size: 1.5rem;
-  }
-  
-  h2 {
-    font-size: 1.25rem;
-  }
-  
-  p {
-    font-size: 0.8rem;
-  }
-}

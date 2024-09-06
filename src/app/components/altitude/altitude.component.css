@@ -10,8 +10,10 @@
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); /* Soft shadow for depth */
     position: relative;
     overflow: hidden;
-    color: #ffffff;
+    color: #73b5de;
+    font-weight: 200;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 13rem;
   }
   
   /* 3D Effect on Hover */
@@ -26,8 +28,7 @@
   /* Chart Container */
   .chart-container {
     position: relative;
-    
-    margin: 10px;
+    height: 10rem;
   }
   
   /* Responsive Adjustments */
@@ -41,7 +42,7 @@
     }
   
     .chart-container {
-      height: 250px;
+      height: 10rem;
     }
   }
   

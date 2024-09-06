@@ -1,16 +1,13 @@
 .dashboard-container {
   display: flex;
-  height: 100vh;
-  background-color: #061123;
-  background-image: 
-      radial-gradient(at 47% 33%, hsl(162.30, 69%, 22%) 0, transparent 59%), 
-      radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);
-  color: #ffffff;
+  flex-direction: row; /* Ensure that columns are arranged horizontally */
+  height: 100vh; /* Ensure it takes the full viewport height */
   position: relative;
-  padding: 20px;
+  width: 100vw; /* Ensure the width spans the viewport */
+  color: #ffffff;
   box-sizing: border-box;
+  flex-grow: 1; /* Ensure it stretches fully */
 }
-
 /* Navbar toggle button styling with Bell Icon */
 .sidenav-toggle-button {
   position: absolute;
@@ -49,7 +46,7 @@
 .grid-container {
   display: flex;
   width: 100%;
-  height: 100%;
+  height: 100%; /* Ensure the grid container takes up full height */
   gap: 20px;
   box-sizing: border-box;
   padding: 20px;
@@ -71,7 +68,7 @@
 .left-column .row .grid-item {
   flex: 1;
   border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  
 }
 
 /* Right column (1/3 width) */
@@ -97,10 +94,11 @@
   width: 85%;
 }
 
+
 /* Sidenav styles */
 .sidenav-container {
-  height: 100%;
-  position: absolute;
+  height: 100vh;
+  position: fixed;
   right: 0;
   top: 0;
   z-index: 1100;
@@ -115,14 +113,13 @@
 }
 
 .sidenav {
+  height: 100%; /* Ensure sidenav itself fills the full height */
   width: 25rem;
   background-color: #061123;
- 
   backdrop-filter: blur(16px) saturate(100%);
-    -webkit-backdrop-filter: blur(16px) saturate(100%);
-    
-    border-radius: 12px;
-    border: 1px solid rgba(255, 255, 255, 0.125);
+  -webkit-backdrop-filter: blur(16px) saturate(100%);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
   color: #ffffff;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
   z-index: 1200;
