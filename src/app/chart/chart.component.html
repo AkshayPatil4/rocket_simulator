@@ -1,0 +1,10 @@
+<div class="chart-container">
+  <select id="chart-dropdown" [(ngModel)]="selectedChart" (change)="onChartSelect()">
+    <option value="line">Line Chart</option>
+    <option value="histogram">Histogram</option>
+    <option value="pie">Pie Chart</option>
+    <option value="scatter">Scatter Plot</option>
+  </select>
+
+  <div id="chart"></div> <!-- Chart gets rendered here -->
+</div>

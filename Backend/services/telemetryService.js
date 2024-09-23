@@ -28,9 +28,7 @@ class TelemetryService {
       this.telemetryData.position.longitude += Math.random() * 0.01 - 0.005;
 
       // Ensure values stay within logical bounds
-      if (this.telemetryData.fuelLevel < 0) this.telemetryData.fuelLevel = 0;
-      if (this.telemetryData.oxidizerLevel < 0) this.telemetryData.oxidizerLevel = 0;
-      if (this.telemetryData.atmosphericPressure < 0) this.telemetryData.atmosphericPressure = 0;
+      
     }
   }
 

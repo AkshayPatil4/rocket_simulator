@@ -1,0 +1,197 @@
+.dashboard-card {
+    display: flex;
+    justify-content: space-between; /* Evenly space fuel and oxidizer gauges */
+    align-items: center;
+    background: rgba(17, 25, 40, 0.75); /* Glass effect */
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    width: 100%; /* Make it responsive */
+    padding: 20px; /* Add padding around the card */
+    height: 13rem;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* 3D Effect on Hover */
+.dashboard-card:hover {
+    transform: perspective(800px) translateZ(15px) scale(1.03); /* 3D pop effect */
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.6);
+}
+
+/* Gauge container */
+.gauge-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+    height: 100%;
+    flex: 1; /* Allow both gauges to take equal space */
+    padding: 0 10px; /* Add equal padding on both sides */
+    height: 12rem;
+}
+
+/* Outer frame for the gauge */
+.gauge-outer-frame {
+    width: 100px; /* Gauge width */
+    height: 100%; /* Gauge height */
+    border-radius: 15px;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0.2));
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.8), 0 0 5px rgba(0, 217, 255, 0.7);
+    padding: 5px; /* Consistent padding inside the gauge */
+    position: relative;
+    transform: translateZ(-40px);
+   
+    margin: 0 auto; /* Ensure it's centered */
+}
+
+@keyframes neon-blink {
+    0% {
+        box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.8), 0 0 5px rgba(0, 217, 255, 0.7);
+    }
+    100% {
+        box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.8), 0 0 15px rgb(30, 41, 43);
+    }
+}
+
+/* Middle frame */
+.gauge-middle-frame {
+    width: 85px; /* Adjusted width for 3D effect */
+    height: 95%; /* Make the middle frame slightly smaller */
+    border-radius: 15px;
+    background: radial-gradient(circle, #1e2230 50%, #131722);
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.6), 0 10px 20px rgba(0, 0, 0, 0.5);
+    transform: translateZ(-20px);
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center elements */
+    margin: 0 auto; /* Center the middle frame */
+}
+
+/* Inner frame */
+.gauge-inner-frame {
+    width: 70px; /* Adjusted width for inner frame */
+    height: 90%; /* Make the inner frame smaller */
+    border-radius: 15px;
+    background: radial-gradient(circle, #131722 50%, #0e1219);
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5), 0 5px 10px rgba(0, 0, 0, 0.4);
+    transform: translateZ(0px);
+    display: flex;
+    justify-content: center;
+    align-items: end; /* Ensure the meter is centered */
+    padding: 0;
+    margin: 0 auto; /* Center the inner frame */
+}
+
+/* Gauge meter */
+.gauge-meter {
+    width: 100%;
+    margin-top: 2px;
+    height: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: inset 0px 0px 20px rgba(0, 255, 255, 0.2);
+    z-index: 1200;
+}
+
+/* Fuel and Oxidizer levels with wave effect */
+.fuel-level, .oxidizer-level {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 100%; /* Initially full */
+    animation: wave 3s linear infinite; /* Liquid-like wave animation */
+    transition: height 0.5s ease-in-out;
+}
+
+.fuel-level {
+    background: rgb(214,240,106);
+background: linear-gradient(0deg, rgba(214,240,106,1) 0%, rgba(113,231,153,1) 50%, rgba(65,240,102,1) 100%);
+    box-shadow: 0 0 10px rgba(63, 115, 45, 0.5);
+    text-align: center;
+    justify-content: center;
+    font-size: .8rem;
+    font-weight: 800;
+    color: rgb(72, 65, 72);
+}
+
+.oxidizer-level {
+    background: rgb(33, 34, 36);
+background: linear-gradient(0deg, rgba(36,33,33,1) 0%, rgb(41, 177, 235) 42%, rgba(29,172,176,1) 100%);
+    box-shadow: 0 0 10px rgba(54, 198, 234, 0.5);
+    text-align: center;
+    justify-content: center;
+    font-size: .8rem;
+    font-weight: 800;
+    color: rgb(72, 65, 72);
+}
+
+/* Wave effect */
+@keyframes wave {
+    0% {
+        background-position: 0% 0%;
+        transform: scaleX(1.1);
+    }
+    50% {
+        background-position: 100% 50%;
+        transform: scaleX(0.95) translateY(-2%);
+    }
+    100% {
+        background-position: 0% 100%;
+        transform: scaleX(1.1);
+    }
+}
+* Wave Effect */
+.fuel-level::before, .oxidizer-level::before {
+  content: "";
+  position: absolute;
+  top: -150%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  border-radius: 40%;
+  background-color: rgba(255, 255, 255, 0.6); /* Wave color */
+  opacity: 0.8;
+  animation: waves 10s linear infinite; /* Wave animation */
+}
+
+@keyframes waves {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+/* Gauge labels */
+.gauge-label {
+    font-size: 1rem;
+    color: #73b5de;
+    text-align: center;
+    justify-content: center;
+    text-transform: uppercase;
+    
+    margin-bottom: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .gauge-container {
+        height: 10rem;
+    }
+
+    .dashboard-card {
+        height: 12rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .gauge-container {
+        height: 10rem;
+        width: 10rem;
+    }
+}

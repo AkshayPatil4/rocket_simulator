@@ -1,0 +1,41 @@
+/* Center the chart using flexbox */
+.chart-container {
+    display: flex;
+    margin: auto;
+    padding: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;  /* Full viewport height to center vertically */
+  }
+  
+  /* Style the dropdown */
+  #chart-dropdown {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-size: 16px;
+    margin-bottom: 40px; /* Space between dropdown and chart */
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.3s, background-color 0.3s;
+  }
+  
+  #chart-dropdown:hover {
+    border-color: #888;
+  }
+  
+  #chart-dropdown:focus {
+    border-color: #555;
+    background-color: #f1f1f1;
+  }
+  
+  /* Center the chart area */
+  #chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

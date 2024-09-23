@@ -1,1 +1,30 @@
-<p>fuel-oxidizer-levels works!</p>
+<div class="dashboard-card">
+    <!-- Fuel Gauge -->
+    <div class="gauge-container">
+        <div class="gauge-label">FUEL</div>
+        <div class="gauge-outer-frame">
+            <div class="gauge-middle-frame">
+            <div class="gauge-inner-frame">
+                <div class="gauge-meter fuel-meter">
+                    <div class="gauge-level fuel-level" [style.height.%]="fuelLevel"> {{fuelLevel}}%</div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    
+    <!-- Oxidizer Gauge -->
+    <div class="gauge-container">
+        <div class="gauge-label">OXIDIZER</div>
+        <div class="gauge-outer-frame">
+            <div class="gauge-middle-frame">
+            <div class="gauge-inner-frame">
+                <div class="gauge-meter oxidizer-meter">
+                    <div class="gauge-level oxidizer-level" [style.height.%]="oxidizerLevel">{{oxidizerLevel}}%</div>
+                </div>
+            </div>
+        </div>
+        </div>
+       
+    </div>
+</div>

@@ -14,11 +14,13 @@ import { TrajectoryMapComponent } from "./components/trajectory-map/trajectory-m
 import { AttitudeVisualizationComponent } from "./components/attitude-visualization/attitude-visualization.component";
 import { ControlPanelComponent } from "./components/control-panel/control-panel.component"; // Import for *ngIf, *ngFor
 import { provideHttpClient } from '@angular/common/http';
+import { ChartComponent } from './chart/chart.component';
+
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet,  CommonModule, MatButtonModule, MatIconModule, MatSidenavModule, AltitudeComponent, VelocityComponent, FuelOxidizerLevelsComponent, EngineThrustTemperatureComponent, ExternalConditionsComponent, TrajectoryMapComponent, AttitudeVisualizationComponent, ControlPanelComponent],
+  imports: [RouterOutlet,  CommonModule, MatButtonModule, MatIconModule, MatSidenavModule, AltitudeComponent, VelocityComponent, FuelOxidizerLevelsComponent, EngineThrustTemperatureComponent, ExternalConditionsComponent, TrajectoryMapComponent, AttitudeVisualizationComponent, ControlPanelComponent, ChartComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
